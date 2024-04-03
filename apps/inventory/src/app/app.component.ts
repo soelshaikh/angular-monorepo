@@ -12,4 +12,5 @@ import { ProductListComponent } from '@angular-monorepo/products';
 })
 export class AppComponent {
   title = 'inventory';
+  
 }
